@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AnyCodable-FlightSchool (0.2.3)
+  - RxSwift (5.1.3)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AnyCodable-FlightSchool (~> 0.2.2)
+  - RxSwift (~> 5.1.3)
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AnyCodable-FlightSchool
+    - RxSwift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnyCodable-FlightSchool: cf53737f4bd1d9187cea453679734506e478fff3
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 7e6ec643dda281b8a0e56e3555837fe4c305b2f2
+
+COCOAPODS: 1.11.2
